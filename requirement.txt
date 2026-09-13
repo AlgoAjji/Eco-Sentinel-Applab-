@@ -1,0 +1,8 @@
+numpy
+requests
+onnxruntime
+librosa
+matplotlib
+soundfile
+scipy
+static-ffmpeg
